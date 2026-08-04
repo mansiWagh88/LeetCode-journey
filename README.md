@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mansiWagh88/LeetCode-journey/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mansiWagh88/LeetCode-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/mansiWagh88/LeetCode-journey/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/mansiWagh88/LeetCode-journey/tree/master/0189-rotate-array) |
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/mansiWagh88/LeetCode-journey/tree/master/0136-single-number) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/mansiWagh88/LeetCode-journey/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
