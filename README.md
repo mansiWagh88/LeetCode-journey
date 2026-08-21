@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/mansiWagh88/LeetCode-journey/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/mansiWagh88/LeetCode-journey/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/mansiWagh88/LeetCode-journey/tree/master/0509-fibonacci-number) |
+| [1903-largest-odd-number-in-string](https://github.com/mansiWagh88/LeetCode-journey/tree/master/1903-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/mansiWagh88/LeetCode-journey/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/mansiWagh88/LeetCode-journey/tree/master/0344-reverse-string) |
+| [1903-largest-odd-number-in-string](https://github.com/mansiWagh88/LeetCode-journey/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -162,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/mansiWagh88/LeetCode-journey/tree/master/0493-reverse-pairs) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/mansiWagh88/LeetCode-journey/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
