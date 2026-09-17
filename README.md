@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/mansiWagh88/LeetCode-journey/tree/master/1903-largest-odd-number-in-string) |
 | [2235-add-two-integers](https://github.com/mansiWagh88/LeetCode-journey/tree/master/2235-add-two-integers) |
 | [3870-count-commas-in-range](https://github.com/mansiWagh88/LeetCode-journey/tree/master/3870-count-commas-in-range) |
+| [3875-construct-uniform-parity-array-i](https://github.com/mansiWagh88/LeetCode-journey/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/mansiWagh88/LeetCode-journey/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/mansiWagh88/LeetCode-journey/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mansiWagh88/LeetCode-journey/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3875-construct-uniform-parity-array-i](https://github.com/mansiWagh88/LeetCode-journey/tree/master/3875-construct-uniform-parity-array-i) |
 ## Bit Manipulation
 |  |
 | ------- |
