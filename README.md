@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/mansiWagh88/LeetCode-journey/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/mansiWagh88/LeetCode-journey/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/mansiWagh88/LeetCode-journey/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/mansiWagh88/LeetCode-journey/tree/master/1922-count-good-numbers) |
 | [2235-add-two-integers](https://github.com/mansiWagh88/LeetCode-journey/tree/master/2235-add-two-integers) |
 | [3870-count-commas-in-range](https://github.com/mansiWagh88/LeetCode-journey/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/mansiWagh88/LeetCode-journey/tree/master/3875-construct-uniform-parity-array-i) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/mansiWagh88/LeetCode-journey/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/mansiWagh88/LeetCode-journey/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/mansiWagh88/LeetCode-journey/tree/master/1922-count-good-numbers) |
 ## Memoization
 |  |
 | ------- |
