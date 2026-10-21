@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mansiWagh88/LeetCode-journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/mansiWagh88/LeetCode-journey/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/mansiWagh88/LeetCode-journey/tree/master/1903-largest-odd-number-in-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/mansiWagh88/LeetCode-journey/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
