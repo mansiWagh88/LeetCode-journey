@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/mansiWagh88/LeetCode-journey/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/mansiWagh88/LeetCode-journey/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/mansiWagh88/LeetCode-journey/tree/master/0678-valid-parenthesis-string) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/mansiWagh88/LeetCode-journey/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Recursion
 |  |
 | ------- |
@@ -139,11 +140,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2643-row-with-maximum-ones](https://github.com/mansiWagh88/LeetCode-journey/tree/master/2643-row-with-maximum-ones) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/mansiWagh88/LeetCode-journey/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/mansiWagh88/LeetCode-journey/tree/master/3875-construct-uniform-parity-array-i) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/mansiWagh88/LeetCode-journey/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/mansiWagh88/LeetCode-journey/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/mansiWagh88/LeetCode-journey/tree/master/0136-single-number) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/mansiWagh88/LeetCode-journey/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/mansiWagh88/LeetCode-journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/mansiWagh88/LeetCode-journey/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/mansiWagh88/LeetCode-journey/tree/master/2643-row-with-maximum-ones) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/mansiWagh88/LeetCode-journey/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Prefix Sum
 |  |
 | ------- |
