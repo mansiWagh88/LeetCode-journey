@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/mansiWagh88/LeetCode-journey/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/mansiWagh88/LeetCode-journey/tree/master/0344-reverse-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mansiWagh88/LeetCode-journey/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/mansiWagh88/LeetCode-journey/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## String
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/mansiWagh88/LeetCode-journey/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/mansiWagh88/LeetCode-journey/tree/master/1903-largest-odd-number-in-string) |
 | [2409-count-days-spent-together](https://github.com/mansiWagh88/LeetCode-journey/tree/master/2409-count-days-spent-together) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/mansiWagh88/LeetCode-journey/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/mansiWagh88/LeetCode-journey/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Dynamic Programming
 |  |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/mansiWagh88/LeetCode-journey/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/mansiWagh88/LeetCode-journey/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/mansiWagh88/LeetCode-journey/tree/master/0678-valid-parenthesis-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/mansiWagh88/LeetCode-journey/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3665-twisted-mirror-path-count](https://github.com/mansiWagh88/LeetCode-journey/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/mansiWagh88/LeetCode-journey/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Recursion
